@@ -3,28 +3,37 @@
 This repository contains manually created bug reports based on web application testing.
 
 ## 📌 Objective
-Practice bug reporting by identifying issues, documenting steps to reproduce, and defining expected vs actual results.
+The goal of this project is to practice and demonstrate bug reporting skills, including clear documentation, reproducibility, and proper classification.
 
 ## 🧪 Scope
-- UI bugs (text inconsistencies)
-- Functional bug (duplicate data display)
+The following types of bugs were identified:
+- UI issues (text inconsistencies)
+- Functional issues (duplicate data)
 
-## 🛠️ Tools
-- Manual testing
-- Excel for documentation
+## 🛠️ Tools & Techniques
+- Manual Testing
+- Test Design Techniques
+- Bug Reporting best practices
 
-## 📂 Files
-- bug-reports.xlsx: Contains all documented bug reports
+## 📂 Project Structure
+- Excel file with detailed bug reports
+- PDF version for easy visualization
+- Google Sheets version for quick access
 
-## 📎 Notes
-These reports include:
-- Clear bug descriptions
-- Steps to reproduce
-- Expected and actual results
-- Severity and priority classification# qa-bug-reports
-Manual bug reports created during QA practice
-## 📎 Access the bug reports
+## 📎 Access the Bug Reports
 
 👉 [View in Google Sheets](https://docs.google.com/spreadsheets/d/1yNMLpjW1CAGe258HdtuSIkSleZ3F0ZgH4QL3d3DRVhE/edit?usp=sharing)  
-👉 [Download Excel]([file:///C:/Users/rodri/Downloads/bug-reports.pdf](https://github.com/RodrigoQa-ai/qa-bug-reports/blob/main/bug-reports.xlsx))  
-👉 [View PDF](file:///C:/Users/rodri/Downloads/bug-reports.pdf)
+👉 [View in PDF](file:///C:/Users/rodri/Downloads/bug-reports.pdf)  
+👉 [Download Excel](file:///C:/Users/rodri/Downloads/bug-reports.pdf](https://github.com/RodrigoQa-ai/qa-bug-reports/blob/main/bug-reports.xlsx)
+
+## 📎 What is included in each report
+Each bug report contains:
+- Unique ID
+- Summary
+- Environment details
+- Steps to reproduce
+- Expected and actual results
+- Severity and priority
+
+## 🚀 About me
+I am transitioning into the QA field, focusing on manual testing and software quality. This project is part of my practical learning journey.
