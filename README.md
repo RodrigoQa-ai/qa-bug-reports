@@ -5,6 +5,9 @@ This repository contains manually created bug reports based on web application t
 ## 📌 Objective
 The goal of this project is to practice and demonstrate bug reporting skills, including clear documentation, reproducibility, and proper classification.
 
+## 🌐 Application Under Test
+The bug reports were created based on testing a task management web application.
+
 ## 🧪 Scope
 The following types of bugs were identified:
 - UI issues (text inconsistencies)
@@ -35,5 +38,6 @@ Each bug report contains:
 - Expected and actual results
 - Severity and priority
 
-## 🚀 About me
-I am transitioning into the QA field, focusing on manual testing and software quality. This project is part of my practical learning journey.
+## 🚀 About Me
+I am transitioning into the QA field, focusing on manual testing and software quality.  
+This project is part of my practical experience in identifying and documenting software defects.
