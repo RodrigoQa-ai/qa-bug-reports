@@ -23,3 +23,8 @@ These reports include:
 - Expected and actual results
 - Severity and priority classification# qa-bug-reports
 Manual bug reports created during QA practice
+## 📎 Access the bug reports
+
+👉 [View in Google Sheets](https://docs.google.com/spreadsheets/d/1yNMLpjW1CAGe258HdtuSIkSleZ3F0ZgH4QL3d3DRVhE/edit?usp=sharing)  
+👉 [Download Excel]([file:///C:/Users/rodri/Downloads/bug-reports.pdf](https://github.com/RodrigoQa-ai/qa-bug-reports/blob/main/bug-reports.xlsx))  
+👉 [View PDF](file:///C:/Users/rodri/Downloads/bug-reports.pdf)
