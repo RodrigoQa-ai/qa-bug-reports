@@ -23,7 +23,7 @@ The following types of bugs were identified:
 ## 📎 Access the Bug Reports
 
 👉 [View in Google Sheets](https://docs.google.com/spreadsheets/d/1yNMLpjW1CAGe258HdtuSIkSleZ3F0ZgH4QL3d3DRVhE/edit?usp=sharing)  
-👉 [View in PDF](file:///C:/Users/rodri/Downloads/bug-reports.pdf)  
+👉 [View in PDF](Users/rodri/Downloads/bug-reports.pdf)  
 👉 [Download Excel](https://github.com/RodrigoQa-ai/qa-bug-reports/blob/main/bug-reports.xlsx)
 
 ## 📎 What is included in each report
